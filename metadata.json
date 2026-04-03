@@ -1,0 +1,5 @@
+{
+  "name": "SC Family Clinic - Plano, TX",
+  "description": "Comprehensive Family Care in Plano, TX. Board-certified physician Dr. Steven Chae, MD. Accepting new patients and Medicare.",
+  "requestFramePermissions": ["geolocation"]
+}
